@@ -74,14 +74,12 @@
 
 <b>My GitHub Stats</b>
 
-<div style="display: flex; flex-wrap: wrap; box-sizing: border-box; padding: 10px;">
-  <div style="width: 50%;">
-    <a href="http://www.github.com/SebasNadu"><img src="https://github-readme-stats.vercel.app/api?username=SebasNadu&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="SebasNadu's GitHub stats" /></a>
-    <a href="http://www.github.com/SebasNadu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SebasNadu&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-  </div>
-  <div style="width: 50%;">
-    <a href="http://www.github.com/SebasNadu"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=SebasNadu&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-    <a href="https://github.com/SebasNadu" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebasNadu&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-  </div>
+<div style="display: flex; justify-content: space-between; align-items: center;" align="center">
+
+  <a href="http://www.github.com/SebasNadu"><img src="https://github-readme-stats.vercel.app/api?username=SebasNadu&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="SebasNadu's GitHub stats" /></a>
+<a href="http://www.github.com/SebasNadu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SebasNadu&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/SebasNadu"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=SebasNadu&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" width="50%"/></a>
+<a href="https://github.com/SebasNadu" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebasNadu&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 </div>
 
