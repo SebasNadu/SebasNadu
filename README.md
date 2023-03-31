@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%; height: 200px; object-fit: fill;" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width="100%"/>
 </div>
 
 ### <div align="center">I'm Sebastian, welcome to my profile 🚀</div> 
@@ -40,8 +40,8 @@
 ### Skills I'm Currently Acquiring  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="50" /></a>  
+<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="45" /></a>  
+<a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="45" /></a>  
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
@@ -74,12 +74,12 @@
 
 <b>My GitHub Stats</b>
 
-<div style="display: flex; justify-content: space-between; align-items: center;" align="center">
+<div>
 
-  <a href="http://www.github.com/SebasNadu"><img src="https://github-readme-stats.vercel.app/api?username=SebasNadu&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="SebasNadu's GitHub stats" /></a>
-<a href="http://www.github.com/SebasNadu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SebasNadu&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-<a href="http://www.github.com/SebasNadu"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=SebasNadu&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" width="50%"/></a>
-<a href="https://github.com/SebasNadu" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebasNadu&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+  <a href="http://www.github.com/SebasNadu"><img src="https://github-readme-stats.vercel.app/api?username=SebasNadu&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="SebasNadu's GitHub stats" width="45%" /></a>
+<a href="http://www.github.com/SebasNadu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SebasNadu&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="45%" /></a>
+<a href="http://www.github.com/SebasNadu"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=SebasNadu&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" width="70%"/></a>
+<a href="https://github.com/SebasNadu" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebasNadu&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" width="20%" /></a>
 
 </div>
 
