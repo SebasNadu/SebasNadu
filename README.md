@@ -1,15 +1,37 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width="100%"/>
-</div>
+<h1 align="center">Hi !<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="32" height="32" /> I'm Sebastian, welcome to my profile  <a href="https://www.github.com/SebasNadu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>  <a href="https://www.linkedin.com/in/sebasnadu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></h1>
 
-### <div align="center">I'm Sebastian, welcome to my profile 🚀</div> 
+## Rapidfire
+<table><tr><td valign="top" width="50%">
 
-*   🌍  I'm based in Berlin.
-*   ✉️  You can contact me at [sebastiannavarro.fl@gmail.com](mailto:sebastiannavarro.fl@gmail.com)
+
+*   🌍  I'm based in Berlin
+ 
+  
+*   🌱  I'm currently at 42 Berlin
+
+  
 *   🚀  I'm currently working on [Treano](http://www.treano.co)
+  
+  
 *   🤝  I'm open to collaborating on cool projects
-*   ⚡  I'm currently at 42 Berlin
+  
+  
+*   ⚡  I used to be a musician
+  
+  
+*   ✉️  You can contact me at [sebastiannavarro.fl@gmail.com](mailto:sebastiannavarro.fl@gmail.com)
+  
 
+</td><td valign="top" width="50%">
+
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+
+
+</td></tr></table>  
+
+<br/>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
