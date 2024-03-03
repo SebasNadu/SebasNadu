@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/SebasNadu">
-    <img src="https://github.com/SebasNadu/SebasNadu/assets/98430438/73d6d64a-45b9-4be7-a70e-6de7659eaa2b" alt="Sebastian Navarro" /></a>
+    <img src="https://github.com/SebasNadu/SebasNadu/assets/98430438/113f1645-546c-4af5-9f92-e009eead6e02" alt="Sebastian Navarro" /></a>
 </p>
 
 <p align="center">
@@ -105,8 +105,16 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SebasNadu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gotham&hide_border=true&order=2" height="90" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SebasNadu&radius=12&theme=gotham&area=true&order=5&hide_border=true&hide_title=false&custom_title=Contributions%20Graph" height="190" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SebasNadu&locale=en&hide_title=false&layout=compact&card_width=360&langs_count=6&theme=gotham&hide_border=true&order=2" height="120" alt="languages graph" />
+</div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SebasNadu&radius=12&theme=gotham&area=true&order=5&hide_border=true&hide_title=false&custom_title=Contributions%20Graph" height="220" alt="activity-graph graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" height="200" alt="languages graph"  />  
 </div>
 
 ###
