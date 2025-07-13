@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 Enrolled in the Software Engineering program at <a href="https://42berlin.de/de/" target="_blank"><img src="https://42berlin.de/wp-content/uploads/2023/07/cropped-new-2-pink-logo-for-site-192x192.png" alt="42_Berlin" height="16"><a><br>⚡ Currently learning C++ and Docker<br>🎯 Goals: Continue being creative by crafting software solutions that positively impact people's lives<br>🎲 Fun fact: I used to be a musician
+<p align="left">✨ Creating bugs since 2022<br>📚 Trained at <a href="https://42berlin.de/de/" target="_blank"><img src="https://42berlin.de/wp-content/uploads/2023/07/cropped-new-2-pink-logo-for-site-192x192.png" alt="42_Berlin" height="16"><a>, ranked the world’s third most innovative university in the 2025 WURI Rankings<br>⚡ Currently working with Kotlin and Spring Framework<br>🎯 Goals: Continue being creative by crafting software solutions that positively impact people's lives<br>🎲 Fun fact: I used to be a musician
 </p>
 
 ###
